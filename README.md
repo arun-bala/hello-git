@@ -1,5 +1,3 @@
 # hello-git
 Learning git
-
-updated
-updated 2
+Sathiya's changes!!
